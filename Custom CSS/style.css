@@ -1,0 +1,94 @@
+.courseDiscId .card-footer{ color: black !important}
+.navbar-section img { max-width: 7rem !important }
+.header {  box-shadow: 0 1px 7px rgb(0 0 0 / 10%); }
+.loginBtn { border-radius: 0.25rem !important; 
+color: white !important; }
+.modal-container .loginForm .clearfix a { color: #FFB234 ;}
+
+.modal-container .loginForm .clearfix button.float-right  {
+   background: #000 !important; 
+    border-color: #000 !important;
+    color: 0.5rem solid #000 !important;
+    min-width: 80px !important; 
+    border-radius: 0.25rem !important; }
+
+.modal-container .loginForm .clearfix button.float-left {
+border: .05rem solid #FFB234;
+    color: #FFB234 !important;
+    border-radius: 0.25rem !important; }
+
+
+div.text-center a#help-email {
+color: #333333 !important;}
+
+
+.loginForm .form-input:focus  {
+border-color: #FFB234 !important;
+box-shadow: 0 0 0 0.1rem rgb(255 178 52/ 20%);
+ }
+
+.signupForm .form-input:focus {
+border-color: #FFB234 !important;
+box-shadow: 0 0 0 0.1rem rgb(255 178 52/ 20%);
+ }
+
+.spectre .btn:focus  {
+box-shadow: 0 0 0 0.1rem rgb(255 178 52/ 20%);
+}
+
+.spectre #newUserBtn:hover ,  .spectre #newUserBtn:focus {background: #FFFF9C !important;}
+
+.signupForm .form-checkbox input:checked+.form-icon {
+background: #FFB234 !important;
+box-shadow: 0 0 0 0.1rem rgb(255 178 52/ 20%);
+border-color: #FFB234 !important;
+}
+.signupForm .form-checkbox .form-icon{
+border: .05rem solid #FFB234;
+}
+
+#alreadyUserBtn {
+    color: #FFB234 !important;
+border-color:  #FFB234 !important;
+}
+#alreadyUserBtn:hover{
+background: #FFFF9C !important;
+border-color:  #FFB234 !important;}
+
+
+#newSignupBtn{
+    color: #FFB234 !important;
+    border-color:  #FFB234 !important;
+    background: #FFFF9C !important;
+}
+#newSignupBtn:hover{
+background: #FFFF9C !important;
+border-color:  #FFB234 !important;}
+
+
+.spectre .signupForm .showPasswordBtn:focus{
+background: #FFFF9C !important;}
+
+.showPasswordBtn{
+border: .05rem solid #FFB234 !important;
+color: #FFB234 !important;
+}
+.showPasswordBtn:hover{
+background: #FFFF9C !important;}
+
+.showPasswordBtn:hover{
+background: #FFFF9C !important;}
+
+
+#loginFormHtml .modal-body .form-group a {
+color: #FFB234 !important;}
+
+body {
+font-family: "Athiti" inherit !important;
+font-weight: 600;
+}
+body,h1,h2,h3,h4,h5,h6,p,li,label,a
+
+{
+	font-family: 'Athiti', sans-serif;
+}

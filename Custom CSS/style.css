@@ -10,7 +10,7 @@ i.form-icon,
 i.form-icon:active,
 i.form-icon:focus {
   border: 0.05rem solid #ffb234 !important;
-  box-shadow: 0 0 0 0;
+  box-shadow: 0 0 0 0 !important;
 }
 
 .courseDiscId .card-footer {
@@ -106,6 +106,8 @@ border-color: #ffb234 !important;
 
 #loginFormHtml .modal-body .form-group a {
   color: #333333 !important;
+  box-shadow: 0 0 0 0 !important;
+  text-decoration: underline;    
 }
 
 /* For View Privacy Policy / Cookie dialog box */

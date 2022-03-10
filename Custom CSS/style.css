@@ -1,3 +1,4 @@
+
 /* <link rel="stylesheet" href="https://hashinsert.github.io/graphy/Custom%20CSS/style.css"> */
 
 /* This Removes teal color box shadow on all buttons */
@@ -8,7 +9,7 @@
 /* Terms and conditions checkbox bug */
 i.form-icon,   i.form-icon:active,  i.form-icon:focus {
   border: 0.05rem solid #ffb234 !important;
-  box-shadow: 0 0 0 0 !important;
+  box-shadow: 0 0 0 0;
 }
 
 .courseDiscId .card-footer {

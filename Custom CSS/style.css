@@ -13,14 +13,6 @@ i.form-icon:focus {
   box-shadow: 0 0 0 0;
 }
 
- /* Border Fix around password field  */
-.form-input.is-error,
-.form-select.is-error,
-.has-error .form-input,
-.has-error .form-select {
-  border: 0.05rem solid #acbdd0 !important;
-}
-
 .courseDiscId .card-footer {
   color: black !important;
 }
@@ -155,3 +147,12 @@ label,
 a {
   font-family: "Athiti", sans-serif;
 }
+
+
+ /* Border Fix around password field  */
+ .form-input.is-error,
+ .form-select.is-error,
+ .has-error .form-input,
+ .has-error .form-select {
+   border: 0.05rem solid #acbdd0 !important;
+ }

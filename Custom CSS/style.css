@@ -21,6 +21,7 @@ i.form-icon:focus {
 }
 .header {
   box-shadow: 0 1px 7px rgb(0 0 0 / 10%);
+  margin-bottom: 4px;
 }
 .loginBtn {
   border-radius: 0.25rem !important;
@@ -150,6 +151,10 @@ a {
   font-family: "Athiti", sans-serif;
 }
 
+/* Logo box fix  */
+.navbar-section section a img:active, .navbar-section section a img:focus{
+  box-shadow: 0 0 0 0;
+}
 
  /* Border Fix around password field  */
  .form-input.is-error,
